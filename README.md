@@ -1,4 +1,4 @@
-#Simple installation VirtualBox and Vagrant on Windows system in order to use Docker.
+#Simple installation VirtualBox and Vagrant on Windows system in order to play with Docker.
 
 1. Create directory and clone this repository.
 2. Run docker.cmd as Administrator.
