@@ -7,4 +7,4 @@
 5. Run example container image ie. 'docker run -d -p 8000:80 docker/getting-started'
 6. Under your host web browser enter '192.168.11.11:8000'
 
-Directory data in host system is used to sync data with ubuntu system under /vagrant directory.
+'Data' directory in host system is used to sync data with ubuntu system under /vagrant directory.
