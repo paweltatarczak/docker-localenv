@@ -17,3 +17,4 @@ del vagrant.msi
 mkdir data
 
 pause
+vagrant up
